@@ -14,7 +14,7 @@ I am a dedicated and enthusiastic individual with a strong passion for leveragin
 
 
 Future Goals
-As an aspiring data analyst, I am continually expanding my skill set and knowledge. I am actively learning new tools and techniques to stay up-to-date with the rapidly evolving field of data analytics. I am open to collaborations and new opportunities that allow me to further develop my expertise and contribute to data-driven projects.
+As an aspiring data analyst, I am continually expanding my skill set and knowledge. I am actively learning new tools and techniques to stay up-to-date with the rapidly evolving field of data analytics. I am open to collaborations and new opportunities that allow me to further develop my expertise and contribute to data-driven projects. My long term goal is learning to combine ML techniques with analytics. 
 
 
 
