@@ -49,4 +49,4 @@ If you have any questions, suggestions, or would like to discuss potential colla
 Thank you for visiting my GitHub profile! I look forward to connecting with you and sharing my passion for data analytics.
 
 
-<span style="color: blue;">Python</span>
+
