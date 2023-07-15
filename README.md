@@ -23,7 +23,7 @@ Contact
 
 If you have any questions, suggestions, or would like to discuss potential collaborations, feel free to reach out to me. You can contact me via email or connect with me on LinkedIn. I am always eager to engage in discussions related to data analytics and explore new opportunities in the field.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datajoedata&label=Profile%20views&color=0e75b6&style=flat" alt="datajoedata" /> </p>
 
