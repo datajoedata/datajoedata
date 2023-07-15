@@ -57,23 +57,33 @@ As an aspiring data analyst, I am continually expanding my skill set and knowled
 
 
 
+
+Contact: 
+
+If you have any questions, suggestions, or would like to discuss potential collaborations, feel free to reach out to me. You can contact me via email or connect with me on LinkedIn. I am always eager to engage in discussions related to data analytics and explore new opportunities in the field.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-vítor-oliveira-alexandre-1a74b6244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joão-vítor-oliveira-alexandre-1a74b6244/" height="30" width="40" /></a>
 <a href="https://kaggle.com/datajoedata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="datajoedata" height="30" width="40" /></a>
 </p>
 
-Contact: 
 
-If you have any questions, suggestions, or would like to discuss potential collaborations, feel free to reach out to me. You can contact me via email or connect with me on LinkedIn. I am always eager to engage in discussions related to data analytics and explore new opportunities in the field.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datajoedata&label=Profile%20views&color=0e75b6&style=flat" alt="datajoedata" /> </p>
+
+
 
 
 
 
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you and sharing my passion for data analytics.
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=datajoedata&label=Profile%20views&color=0e75b6&style=flat" alt="datajoedata" /> </p>
+
 
 
 
