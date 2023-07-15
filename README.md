@@ -5,7 +5,8 @@ I'm a aspiring Data Analyst
 Welcome to my GitHub profile! Here you will find a collection of projects and repositories that showcase my skills. I am actively pursuing a career in data analytics, and this repository serves as a comprehensive overview of my expertise, with a particular focus on Python, SQL, and Power BI.
 
 
-About Me
+About Me: 
+
 I am a dedicated and enthusiastic individual with a strong passion for leveraging data to derive valuable insights and make informed decisions. Seeking to build solid foundation in various tools and techniques required to extract, manipulate, and visualize data effectively. I love helping people and delivering value to unnused data. 
 
 
@@ -13,7 +14,8 @@ I am a dedicated and enthusiastic individual with a strong passion for leveragin
 
 
 
-Future Goals
+Future Goals:
+
 As an aspiring data analyst, I am continually expanding my skill set and knowledge. I am actively learning new tools and techniques to stay up-to-date with the rapidly evolving field of data analytics. I am open to collaborations and new opportunities that allow me to further develop my expertise and contribute to data-driven projects. My long term goal is learning to combine ML techniques with analytics. 
 
 
