@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here you will find a collection of projects and re
 
 About Me: 
 
-I am a dedicated and enthusiastic individual with a strong passion for leveraging data to derive valuable insights and make informed decisions. Seeking to build solid foundation in various tools and techniques required to extract, manipulate, and visualize data effectively. I love helping people and delivering value to unnused data. 
+I am a dedicated and enthusiastic individual with a strong passion for leveraging data to derive valuable insights and make informed decisions. Working hard to build a solid foundation in various tools and techniques required to extract, manipulate, and visualize data effectively. I love helping people and delivering value to unnused data. 
 
 
 
