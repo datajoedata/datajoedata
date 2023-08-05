@@ -2,7 +2,7 @@
 
 I'm a aspiring Data Analyst
 
-Welcome to my GitHub profile! Here you will find a collection of projects and repositories that showcase my skills. I am actively pursuing a career in data analytics, and this repository serves as a comprehensive overview of my expertise, with a particular focus on Python, SQL, and Power BI.
+Welcome to my GitHub! Here you will find a collection of projects and repositories that showcase my skills. I am actively pursuing a career in data analytics, and this repository serves as a comprehensive overview of my expertise, with a particular focus on Python, SQL, and Power BI.
 
 
 About Me: 
