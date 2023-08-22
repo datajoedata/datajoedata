@@ -1,6 +1,6 @@
 ### Hello there, 👋
 
-Welcome to my GitHub repository. I'm an aspiring Data Analyst on a journey to explore the exciting world of data analytics. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities. My focus lies primarily in Python, SQL, and Power BI, as these tools allow me to effectively extract, manipulate, and visualize data.
+Welcome to my GitHub repository. I'm an aspiring Data Analyst on a journey to explore the world of data analytics. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities. My focus lies primarily in Python, SQL, and Power BI, as these tools allow me to effectively extract, manipulate, and visualize data.
 
 
 
