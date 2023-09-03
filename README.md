@@ -1,18 +1,18 @@
 ### Hello there, 👋
 
-Welcome to my GitHub repository. I'm an aspiring Data Analyst on a journey to explore the world of data analytics. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities. My focus lies primarily in Python, SQL, and Power BI, as these tools allow me to effectively extract, manipulate, and visualize data.
+Welcome to my GitHub repository. You can call me Joe, I'm an aspiring Data Analyst with some affinity to biotech and biology. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities. My focus lies primarily in Python, SQL, and Power BI, as these tools allow me to effectively extract, manipulate, and visualize data.
 
 
 
 About Me:
 
-I'm driven by a strong passion for uncovering meaningful insights from data and using them to make informed decisions. My dedication and enthusiasm fuel my efforts to build a robust skill set in various data-related tools and techniques. My ultimate goal is to breathe life into unused data, delivering value through its transformation.
+I'm driven by a strong passion for uncovering insights from meaningful data and helping others make informed decisions. My dedication and enthusiasm fuel my efforts to build a robust skill set in various data-related tools and techniques. My ultimate goal is to breathe life into unused data, delivering value through its transformation.
 
 
 
 Future Goals:
 
-As I pursue my path towards becoming a skilled data analyst, I'm committed to continuously expanding my knowledge and capabilities. I actively engage in learning new tools and techniques to keep up with the ever-evolving landscape of data analytics. Collaboration and fresh opportunities are always welcome, as they enable me to further enhance my expertise and contribute to impactful data-driven projects. In the long run, I aspire to master the fusion of machine learning techniques with analytics to unlock even deeper insights. Feel free to explore and connect!
+As I pursue my path towards becoming a skilled data analyst, I'm committed to continuously expand my knowledge and capabilities. I actively engage in learning new tools and techniques to keep up with the ever-evolving landscape of data analytics. Collaboration and fresh opportunities are always welcome, as they enable me to further enhance my expertise and contribute to impactful data-driven projects. In the long run, I aspire to master the fusion of machine learning techniques with analytics to unlock even deeper insights. Feel free to explore and connect!
 
 
 
