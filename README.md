@@ -12,7 +12,7 @@ I'm driven by a strong passion for uncovering insights from meaningful data and 
 
 Future Goals:
 
-As I pursue my path towards becoming a skilled data analyst, I'm committed to continuously expand my knowledge and capabilities. I actively engage in learning new tools and techniques to keep up with the ever-evolving landscape of data analytics. Collaboration and fresh opportunities are always welcome, as they enable me to further enhance my expertise and contribute to impactful data-driven projects. In the long run, I aspire to master the fusion of machine learning techniques with analytics to unlock even deeper insights. Feel free to explore and connect!
+As I pursue my path towards becoming a skilled data analyst, I'm committed to continuously expand my knowledge and capabilities. I actively engage in learning new tools and techniques to keep up with the ever-evolving landscape of data analytics. Collaboration and fresh opportunities are always welcome, as they enable me to further enhance my expertise and contribute to impactful data-driven projects. In the long run, I aspire to learn more about machine learning techniques and analytics to unlock even deeper insights. Feel free to explore and connect!
 
 
 
