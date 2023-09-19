@@ -1,12 +1,13 @@
 ### Hello there, 👋
 
-Welcome to my GitHub repository. You can call me Joe, I'm an aspiring Data Analyst with some affinity to biotech and biology. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities."My primary toolset includes SQL, Python (bs4, pandas, matplotlib, seaborn), Google Sheets, and Power BI. These tools enable me to efficiently extract, manipulate, and visualize data."
+Welcome to my GitHub repository. You can call me Joe, I'm an aspiring Data Analyst with some affinity to biotech and biology. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities."My primary toolset includes SQL, Python (bs4, pandas, matplotlib, seaborn), Google Sheets, and Power BI. These tools enable me to efficiently extract, manipulate, and visualize data.
 
 
 
 ### About Me:
 
-I'm driven by a strong passion for uncovering insights from meaningful data and helping others make informed decisions. My dedication and enthusiasm fuel my efforts to build a robust skill set in various data-related tools and techniques. My ultimate goal is to breathe life into unused data, delivering value through its transformation. I'm a compulsive learner, learning makes me feel alive
+My name is João Vítor Oliveira Alexandre, joe is actually a nickame. I'm a ex-biotech student that switched career paths. I'm your regular Brazilian boy. I Love to go to the beach, drink some caipirinhas and watching documentaries about nature. And Kafka is my favorite writer. 
+As any data nerd, I have a deep impulse for uncovering insights into meaningful data and helping others make informed decisions. My dedication and enthusiasm fuel my efforts to build a robust skill set in various data-related tools and techniques. My ultimate goal is to breathe life into unused data, delivering value through its transformation. I'm a compulsive learner, 
 
 
 
