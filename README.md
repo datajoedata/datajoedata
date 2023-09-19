@@ -4,9 +4,9 @@ Welcome to my GitHub repository. You can call me Joe, I'm an aspiring Data Analy
 
 
 
-About Me:
+### About Me:
 
-I'm driven by a strong passion for uncovering insights from meaningful data and helping others make informed decisions. My dedication and enthusiasm fuel my efforts to build a robust skill set in various data-related tools and techniques. My ultimate goal is to breathe life into unused data, delivering value through its transformation.
+I'm driven by a strong passion for uncovering insights from meaningful data and helping others make informed decisions. My dedication and enthusiasm fuel my efforts to build a robust skill set in various data-related tools and techniques. My ultimate goal is to breathe life into unused data, delivering value through its transformation. I'm a compulsive learner, learning makes me feel alive
 
 
 
@@ -59,8 +59,7 @@ As I pursue my path towards becoming a skilled data analyst, I'm committed to co
 
 
 
-Contact: 
-
+### Contact: 
 If you have any questions, suggestions, or would like to discuss potential collaborations, feel free to reach out to me. You can contact me via email or connect with me on LinkedIn. I am always eager to engage in discussions related to data analytics and explore new opportunities in the field.
 
 <h3 align="left">Connect with me:</h3>
@@ -78,8 +77,7 @@ If you have any questions, suggestions, or would like to discuss potential colla
 
 
 
-Thank you for visiting my GitHub profile! I look forward to connecting with you and sharing my passion for data analytics.
-
+Thank you for checking out my GitHub profile! Feel free to connect, I'm always excited to connect and share experience in the data analytics, data science, data stuff fields in general. :P 
 
 
 
