@@ -7,7 +7,7 @@ Welcome to my GitHub repository. You can call me Joe, I'm an aspiring Data Analy
 ### About Me:
 
 My name is João Vítor Oliveira Alexandre, joe is actually a nickame. I'm a ex-biotech student that switched career paths. I'm a regular Brazilian. I Love to go to the beach, drink some caipirinhas, working out and watching documentaries about nature.
-Like any data nerd, a deep impulse fuels my soul to investigate and uncover insights, delivering meaningful data and helping others make informed decisions always boosts my dopamine levels.
+Like any data nerd, a deep impulse fuels my soul to investigate and uncover insights. Delivering meaningful data and helping others make informed decisions always boosts my dopamine levels.
 My dedication and enthusiasm helped me so far to build a robust skill set in various data-related tools and techniques. My ultimate goal is to breathe life into unused data, delivering value through its transformation. And also being able to help my family. I'm a compulsive learner, "The moment you stop learning you start dying". Also, Kafka is my favorite writer. 
 
 
