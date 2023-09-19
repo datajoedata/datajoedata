@@ -1,6 +1,6 @@
 ### Hello there, 👋
 
-Welcome to my GitHub repository. You can call me Joe, I'm an aspiring Data Analyst with some affinity to biotech and biology. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities. My toolset lies primarily in Python(bs4, pandas, matlab, matplotlib, sns) SQL, Excel and Power BI, as these tools allow me to effectively extract, manipulate, and visualize data.
+Welcome to my GitHub repository. You can call me Joe, I'm an aspiring Data Analyst with some affinity to biotech and biology. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities."My primary toolset includes SQL, Python (bs4, pandas, matplotlib, seaborn), Google Sheets, and Power BI. These tools enable me to efficiently extract, manipulate, and visualize data."
 
 
 
