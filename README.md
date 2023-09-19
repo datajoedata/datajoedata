@@ -1,14 +1,14 @@
 ### Hello there, 👋
 
-Welcome to my GitHub repository. You can call me Joe, I'm an aspiring Data Analyst with some affinity to biotech and biology. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities."My primary toolset includes SQL, Python (bs4, pandas, matplotlib, seaborn), Google Sheets, and Power BI. These tools enable me to efficiently extract, manipulate, and visualize data.
+Welcome to my GitHub repository. You can call me Joe, I'm an aspiring Data Analyst with some affinity to biotech and biology. This space showcases a collection of projects and repositories that highlight my evolving skills and abilities. My primary toolset includes SQL, Python (bs4, pandas, matplotlib, seaborn), Google Sheets, and Power BI. These tools enable me to efficiently extract, manipulate, and visualize data.
 
 
 
 ### About Me:
 
-My name is João Vítor Oliveira Alexandre, joe is actually a nickame. I'm a ex-biotech student that switched career paths. I'm a regular Brazilian boy. I Love to go to the beach, drink some caipirinhas, working out and watching documentaries about nature. Also, Kafka is my favorite writer. 
+My name is João Vítor Oliveira Alexandre, joe is actually a nickame. I'm a ex-biotech student that switched career paths. I'm a regular Brazilian. I Love to go to the beach, drink some caipirinhas, working out and watching documentaries about nature.
 Like any data nerd, a deep impulse fuels my soul to investigate and uncover insights, delivering meaningful data and helping others make informed decisions always boosts my dopamine levels.
-My dedication and enthusiasm helped me so far to build a robust skill set in various data-related tools and techniques. My ultimate goal is to breathe life into unused data, delivering value through its transformation. And also being able to help my family. I'm a compulsive learner, 
+My dedication and enthusiasm helped me so far to build a robust skill set in various data-related tools and techniques. My ultimate goal is to breathe life into unused data, delivering value through its transformation. And also being able to help my family. I'm a compulsive learner, "The moment you stop learning you start dying". Also, Kafka is my favorite writer. 
 
 
 
@@ -29,10 +29,7 @@ As I pursue my path towards becoming a skilled data analyst, I'm committed to co
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=datajoedata&show_icons=true&locale=en&layout=compact" alt="datajoedata" /></p>
-
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
 
 
 
