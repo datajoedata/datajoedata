@@ -14,7 +14,7 @@ My dedication and enthusiasm helped me so far to build a robust skill set in var
 
 Future Goals:
 
-As I pursue my path towards becoming a skilled data analyst, I'm committed to continuously expand my knowledge and capabilities. I actively engage in learning new tools and techniques to keep up with the ever-evolving landscape of data analytics. Collaboration and fresh opportunities are always welcome, as they enable me to further enhance my expertise and contribute to impactful data-driven projects. In the long run, I aspire to learn more about machine learning techniques and analytics to unlock even deeper insights. Feel free to explore and connect!
+As I pursue my journey towards becoming a skilled data analyst, my curiosity in statistics has skyrocketed. I am committed to continuously expanding my knowledge and capabilities, considering the possibility of pursuing a master's in statistics or another math-related field. I actively engage in learning new tools and techniques to keep up with the ever-evolving landscape of data analytics. Collaboration and fresh opportunities are always welcome, as they enable me to enhance my expertise and contribute to impactful data-driven projects. In the long run, I aspire to delve deeper into machine learning techniques and analytics to uncover insights that can make a meaningful difference, whether directly or indirectly. Feel free to explore and connect.
 
 
 
