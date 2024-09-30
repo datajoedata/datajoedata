@@ -1,12 +1,13 @@
+### Intro:
+Pode me chamar de Joe! 
+Este espaço reúne projetos e repositórios que destacam minhas habilidades em constante evolução. Meus principais conjuntos de ferramentas incluem SQL, pyspark, Python (bs4, pandas, matplotlib, seaborn) e Power BI. Com essas ferramentas, consigo extrair, manipular e visualizar dados de forma eficiente.
 
-Pode me chamar de Joe! Este espaço reúne projetos e repositórios que destacam minhas habilidades em constante evolução. Meus principais conjuntos de ferramentas incluem SQL, pyspark, Python (bs4, pandas, matplotlib, seaborn) e Power BI. Com essas ferramentas, consigo extrair, manipular e visualizar dados de forma eficiente.
-
-Sobre Mim:
+### Sobre Mim:
 Meu nome é João Vítor Oliveira Alexandre, mas pode me chamar de Joe. Sou um ex-estudante de biotecnologia que decidiu mudar de carreira. Sou um brasileiro comum que ama ir à praia, tomar uma boa caipirinha, malhar e assistir a documentários sobre a natureza.
 
 Como todo amante de dados, tenho um desejo incessante de investigar e descobrir insights valiosos. Entregar dados significativos e ajudar os outros a entendê-los me traz grande satisfação. Minha dedicação e curiosidade me ajudaram a desenvolver um conjunto robusto de habilidades em várias ferramentas e técnicas de dados.
 
-Objetivos Futuros:
+### Objetivos Futuros:
 Minha curiosidade em estatística só tem aumentado. Estou comprometido em expandir continuamente meus conhecimentos, e talvez até considerar um mestrado em estatística ou outra área relacionada à matemática (Todos cometem loucuras). Estou sempre aberto a aprender novas ferramentas e técnicas para acompanhar a evolução do campo da análise de dados. Colaborações e novas oportunidades são sempre bem-vindas, nada melhor do que permitir-se aprimorar expertises e contribuir para projetos que causem impacto. No longo prazo, quero me aprofundar em técnicas de machine learning para descobrir insights capazes de fazer a diferença, seja de forma direta ou indireta. 
 
 Linguagens e Ferramentas:
