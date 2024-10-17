@@ -1,6 +1,6 @@
 ### Intro:
 Pode me chamar de Joe! 
-Este espaço reúne projetos e repositórios que destacam minhas habilidades em constante evolução. Meus principais conjuntos de ferramentas incluem SQL, pyspark, Python (bs4, pandas, matplotlib, seaborn) e Power BI. Com essas ferramentas, consigo extrair, manipular e visualizar dados de forma eficiente.
+Este espaço reúne projetos e repositórios que destacam minhas habilidades em constante evolução. Meus principais conjuntos de ferramentas incluem SQL, Apache spark, Python (bs4, pandas, matplotlib, seaborn) e Power BI. Com essas ferramentas, consigo extrair, manipular e visualizar dados de forma eficiente.
 
 ### Sobre Mim:
 Meu nome é João Vítor Oliveira Alexandre, mas pode me chamar de Joe. Sou um ex-estudante de biotecnologia que decidiu mudar de carreira. Sou um brasileiro comum que ama ir à praia, tomar uma boa caipirinha, malhar e assistir a documentários sobre a natureza.
